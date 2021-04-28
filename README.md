@@ -1,1 +1,2 @@
-# FirebasePratice
+# synchronousBallMovement
+Ball moving synchronously
